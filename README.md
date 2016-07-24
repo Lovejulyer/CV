@@ -1,6 +1,6 @@
 # CV
   
-&emsp;&emsp;**个人在线简历**
+&emsp;&emsp;**个人在线简历** [https://lovejulyer.github.io/CV/ ](https://lovejulyer.github.io/CV/ )
 
 
 ![](https://github.com/Lovejulyer/CV/blob/master/img/01.png)
